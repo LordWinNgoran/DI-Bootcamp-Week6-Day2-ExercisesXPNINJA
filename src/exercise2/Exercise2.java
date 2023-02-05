@@ -1,7 +1,11 @@
+//Exercise 2 : Solutions Does This Quadratic
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * @author: N'goran Kouadio Jean Cyrille
+ * @description: How Many Solutions Does This Quadratic Have
+ * A quadratic equation a x² + b x + c = 0 has either 0, 1, or 2 distinct solutions
+ * for real values of x. Given a, b and c, you should return the number of solutions to the equation.
+ * Date : 01/01/2023
  */
-
 package exercise2;
 
 

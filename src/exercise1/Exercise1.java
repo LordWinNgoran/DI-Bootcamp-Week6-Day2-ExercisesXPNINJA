@@ -1,5 +1,9 @@
+
+//Exercise 1 : Worker Efficiency
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * @author: N'goran Kouadio Jean Cyrille
+ * @description: 
+ * Date : 01/01/2023
  */
 
 package exercise1;
